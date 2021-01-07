@@ -1,0 +1,13 @@
+.pick {
+    background-color: grey;
+}
+
+/*.tableFixHead          { overflow-y: auto; height: 100px; }*/
+.tableFixHead  { position: sticky; top: 0;
+background-color: black;
+    z-index: 100;}
+
+.otline {
+border : 2px solid black;
+outline-style: solid;
+outline-color: red;}
